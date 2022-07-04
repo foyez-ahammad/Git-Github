@@ -1,4 +1,5 @@
 line-1 from local
 line-2 from local branch-1
 line-3 from online branch-2
-line-3 from local-2
+line-4 from local-2
+line-5 from online
